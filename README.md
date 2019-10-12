@@ -4,8 +4,8 @@ App for downloading random joke about Chuck Norris from the API: http://api.icnd
 
 Solutions and technology:
 
-*HTML 5
-*CSS
-*JavaScript
-*AJAX 
-*API
+* HTML 5
+* CSS
+* JavaScript
+* AJAX 
+* API
